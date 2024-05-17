@@ -7,6 +7,7 @@ import Pricing from "./components/Pricing";
 import Services from "./components/Services";
 import Roadmap from "./components/Roadmap";
 import "./app.css";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
         <Services />
         <Pricing />
         <Roadmap />
+        <Footer />
       </div>
       <ButtonGradient />
     </>
