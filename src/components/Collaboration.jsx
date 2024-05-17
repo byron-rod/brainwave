@@ -44,6 +44,7 @@ const Collaboration = () => {
                     width={48}
                     height={48}
                     alt="brainwave"
+                    className="brainwave-symbol"
                   />
                 </div>
               </div>
@@ -63,7 +64,7 @@ const Collaboration = () => {
                     }`}
                   >
                     <img
-                      className="m-auto"
+                      className="m-auto app-icon"
                       width={app.width}
                       height={app.height}
                       alt={app.title}

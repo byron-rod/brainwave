@@ -1,0 +1,15 @@
+.app-icon {
+    transition: transform 0.3s ease-in-out;
+}
+
+.app-icon:hover {
+    transform: scale(1.1);
+}
+
+.brainwave-symbol {
+    transition: transform 0.3s ease-in-out;
+}
+
+.brainwave-symbol:hover {
+    transform: scale(1.2);
+}
